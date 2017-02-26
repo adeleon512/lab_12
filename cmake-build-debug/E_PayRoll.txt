@@ -1,0 +1,6 @@
+56678	Brooks		19.5
+45322	Peterson	12
+98008	Stones		10.9
+43225	Anderson	7.5
+97642	Jonathan	15
+54536	Solomon		20

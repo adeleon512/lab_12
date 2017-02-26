@@ -1,0 +1,12 @@
+Employee ID   Hours Worked       Pay Rate   Wages Earned
+56678         43                 19.5         $838.5
+Employee ID   Hours Worked       Pay Rate   Wages Earned
+45322         43                   12         $516
+Employee ID   Hours Worked       Pay Rate   Wages Earned
+98008         43                 10.9         $468.7
+Employee ID   Hours Worked       Pay Rate   Wages Earned
+43225         33                  7.5         $247.5
+Employee ID   Hours Worked       Pay Rate   Wages Earned
+976424.34345e+009                   15         $6.51518e+010
+Employee ID   Hours Worked       Pay Rate   Wages Earned
+545362.34525e+034                   20         $4.69049e+035
